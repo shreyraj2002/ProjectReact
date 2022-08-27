@@ -1,3 +1,6 @@
+// import { Board } from "./Board";
+// import { Square } from "./Square";
+// import {App} from "./App";
 export function calculateWinner(squares) {
     const lines = [
         [0, 1, 2],
